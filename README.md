@@ -1,6 +1,9 @@
 # battery_data_visualization
 Lithium-ion battery material research data visualization
 
+The auto-extracted battery data can be download: https://figshare.com/articles/A_database_of_battery_materials_auto-generated_using_ChemDataExtractor/11888115/2
+reported by Huang, Shu; Cole, Jacqueline (2020): A database of battery materials auto-generated using ChemDataExtractor. figshare. Dataset.
+
 Firstly, the simple_vs.py is to visulize the material properties directly from the dataset
 Frequency vs. attributes (('Capacity','mAh/g'), ('Voltage','V'), ('Conductivity', 's/cm'), 
                 ('Coulombic Efficiency', '%'), ('Energy', 'Wh/kg'))
